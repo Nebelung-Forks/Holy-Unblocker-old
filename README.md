@@ -40,7 +40,7 @@ Official Site: <a href="https://holyubofficial.net">https://holyubofficial.net</
 
 Simply do `%proxy hu` in `#proxy-commands` for more Holy Unblocker links on the TN Discord server.
 
-<img src="https://raw.githubusercontent.com/Titanium-Network/Holy-Unblocker/master/views/assets/img/preview/hu-v5.0.0-preview.png"></img>
+<img src="https://raw.githubusercontent.com/Titanium-Network/Holy-Unblocker-old/master/views/assets/img/preview/hu-v5.0.0-preview.png"></img>
 
 ### Deploy Holy Unblocker
 
@@ -54,7 +54,7 @@ Simply do `%proxy hu` in `#proxy-commands` for more Holy Unblocker links on the 
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTitanium-Network%2FHoly-Unblocker%2Fold)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/QuiteAFancyEmerald/Holy-Unblocker-Old&branch=master&name=HolyUnblocker&run_command=npm%start)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Titanium-Network/Holy-Unblocker-old&branch=master&name=HolyUnblocker&run_command=npm%start)
 
 #### Is Holy Unblocker still being worked on?
 Yes! A lot of users may have noticed the initial message about Holy Unblocker being down however Holy Unblocker is now being maintained by a seperate team and no longer by me. You may check it out <a href="https://git.holy.how/">here</a> once setup or join the TN Discord linked below for more information. 
